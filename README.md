@@ -24,5 +24,5 @@ Merhaba, ben Pelşin 🚀💻
   <img src="https://www.looper.com/img/gallery/rick-and-mortys-spencer-grammer-loves-that-summer-is-similar-to-rick/intro-1677786730.jpg" width="100%">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=plsnakku3&color=blueviolet&style=flat-square" alt="visitor count" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/git-header.gif" width="100%">
 </p>
