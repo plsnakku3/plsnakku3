@@ -19,7 +19,12 @@ Merhaba, ben Pelşin 🚀💻
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL" />
 </div>
-
+<!-- Havalı ve parlak teknoloji rozetleri -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,csharp,python,html,css,mysql,git,vscode" />
+  </a>
+</p>
 <p align="center">
   <img src="https://www.looper.com/img/gallery/rick-and-mortys-spencer-grammer-loves-that-summer-is-similar-to-rick/intro-1677786730.jpg" width="100%">
 </p>
