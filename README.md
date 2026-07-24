@@ -19,9 +19,8 @@ Merhaba, ben Pelşin 🚀💻
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL" />
 </div>
-<!-- Renkli, dalgalı ve parlayan bir karşılama banner'ı -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Merhaba%20D%C3%!%20%F0%9F%9A%80&fontSize=45&fontColor=fff&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Hi!+%F0%9F%91%8B+Ben+Taylan!;Bilgisayar+Programcılığı+Öğrencisi;Kod+Yazmayı+ve+Üretmeyi+Seviyorum!" alt="Typing SVG" />
 </p>
 
 <p align="center">
