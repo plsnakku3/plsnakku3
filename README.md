@@ -1,7 +1,5 @@
 ### Merhaba, ben Pelşin 🚀💻
 
-* 🔭 Bilgisayar programcılığı ve web geliştirme projeleri üzerine çalışıyorum.
-* 🌱 Şu sıralar modern web teknolojileri ve yazılım mimarileri öğreniyorum.
 * 📫 Bana nasıl ulaşabilirsin: plsnakku3@gmail.com
 
 <br>
@@ -24,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Hi!+%F0%9F%91%8B+Ben+Pelsin!;Bilgisayar+Programciligi+Ogrencisi;Kod+Yazmayi+ve+Uretmeyi+Seviyorum!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=50&lines=Selam+Canim+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
