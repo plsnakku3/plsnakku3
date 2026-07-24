@@ -26,7 +26,4 @@ Merhaba, ben Pelşin 🚀💻
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=plsnakku3&label=Matrix%20Vstr&color=7c3aed&style=flat-square" alt="matrix vst" />
 </p>
-<!-- Neon efektli, daktilo gibi yazan başlık -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Merhaba%2C+Ben+Taylan!;Bilgisayar+Programcılığı+Öğrencisi;Kod+Yazmayı+ve+Üretmeyi+Seviyorum!" alt="Typing SVG" />
-</p>
+
