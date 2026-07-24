@@ -23,6 +23,8 @@ Merhaba, ben Pelşin 🚀💻
 <p align="center">
   <img src="https://www.looper.com/img/gallery/rick-and-mortys-spencer-grammer-loves-that-summer-is-similar-to-rick/intro-1677786730.jpg" width="100%">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/git-header.gif" width="100%">
+<p align="left">
+  <!-- Kenarda yürüyen piksel morty veya hareketli bir GIF -->
+  <img src="https://media1.giphy.com/media/l41lN8gX7gY1q7nry/giphy.gif" width="120" alt="yürüyen morty" />
+  <span>Şey... Rick, bak! Kenarda yürüyüyorum!</span>
 </p>
