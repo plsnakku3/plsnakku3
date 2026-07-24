@@ -1,6 +1,8 @@
 ### Merhaba, ben Pelşin 🚀💻
 
 * 📫 Bana nasıl ulaşabilirsin: plsnakku3@gmail.com
+* 🔭 Bilgisayar programcılığı ve web geliştirme projeleri üzerine çalışıyorum.
+* 🌱 Şu sıralar modern web teknolojileri ve yazılım mimarileri öğreniyorum. 
 
 <br>
 
