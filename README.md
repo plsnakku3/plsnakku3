@@ -19,3 +19,7 @@ Merhaba, ben Pelşin 🚀💻
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL" />
 </div>
+
+<p align="center">
+  <img src="https://www.looper.com/img/gallery/rick-and-mortys-spencer-grammer-loves-that-summer-is-similar-to-rick/intro-1677786730.jpg" width="100%">
+</p>
