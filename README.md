@@ -23,6 +23,6 @@ Merhaba, ben Pelşin 🚀💻
 <p align="center">
   <img src="https://www.looper.com/img/gallery/rick-and-mortys-spencer-grammer-loves-that-summer-is-similar-to-rick/intro-1677786730.jpg" width="100%">
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Hoşgeldiniz!&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&label=Matrix%20Visitors&color=7c3aed&style=flat-square" alt="matrix visitors counter" />
 </p>
