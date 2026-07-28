@@ -32,5 +32,5 @@
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=plsnakku3&label=Matrix%20Vstr&color=7c3aed&style=flat-square" alt="matrix visitor" />
+  <img src="https://komarev.com/ghpvc/?username=plsnakku3&label=Matrix%20Visitor&color=7c3aed&style=flat-square" alt="matrix visitor" />
 </p>
